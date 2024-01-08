@@ -1,6 +1,6 @@
 # All Projects Repository
 
-Welcome to the "All Projects" repository, a collection of diverse data analysis and data science projects using Python. Each project is designed to showcase different aspects of data science, ranging from classification and regression models to exploratory data analysis and statistical analysis.
+This repository is a compilation of some of the python projects I have undertaken to build my skills as a data professional. This ReadMe file is a reough breakdown of each project in this repository along with the tools used. Each project showcases different aspects of data science, ranging from classification and regression models to exploratory data analysis and statistical analysis.
 
 ## Projects Overview:
 
