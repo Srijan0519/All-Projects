@@ -29,7 +29,7 @@ Welcome to the "All Projects" repository, a collection of diverse data analysis 
 - **Techniques Used:** Regression analysis, linear regression.
 - **Tools:** Python, scikit-learn, pandas, matplotlib.
 
-### 6. Statistical Analysis of Financial Data
+### 6. [Statistical Analysis of Financial Data](https://github.com/Srijan0519/All-Projects/blob/main/financial_data_analysis.ipynb)
 - **Objective:** Conduct statistical analysis of financial data based on a WBL course taught at Zurich University of Applied Sciences by Dr. Marcel Dettling.
 - **Techniques Used:** Statistical analysis, financial data analysis.
 - **Tools:** Python, pandas, numpy, scipy.
